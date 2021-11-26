@@ -9,4 +9,4 @@ This repository contains all the material learned during the Udemy course:
 
 ### Sort Algorithms
 
-1. [Buble Sort](src/S01SortAlgorithms/BubleSort.java)
+1. [Buble Sort](src/com/dandsm/s1sort/BubleSort.java)
